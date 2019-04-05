@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="toy-JVM:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/toy_JVM_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="toy-JVM/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
